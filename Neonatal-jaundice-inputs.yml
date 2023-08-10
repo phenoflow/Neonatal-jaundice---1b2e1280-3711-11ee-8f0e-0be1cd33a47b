@@ -1,0 +1,51 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/perinatal-neonatal-jaundice-excl-haemolytic-dz-of-the-newborn---primary.py
+inputModule3:
+  class: File
+  path: python/neonatal-jaundice-excl-haemolytic-dz-of-the-newborn-anaemia---primary.py
+inputModule4:
+  class: File
+  path: python/neonatal-jaundice-excl-haemolytic-dz-of-the-newborn---primary.py
+inputModule5:
+  class: File
+  path: python/excessive-neonatal-jaundice-excl-haemolytic-dz-of-the-newborn---primary.py
+inputModule6:
+  class: File
+  path: python/neonatal-jaundice-excl-haemolytic-dz-of-the-newborn-haemolysis---primary.py
+inputModule7:
+  class: File
+  path: python/neonatal-jaundice-excl-haemolytic-dz-of-the-newborn-conjugation---primary.py
+inputModule8:
+  class: File
+  path: python/neonatal-jaundice-excl-haemolytic-dz-of-the-newborn-specified---primary.py
+inputModule9:
+  class: File
+  path: python/neonatal-jaundice-excl-haemolytic-dz-of-the-newborn-inhibitor---primary.py
+inputModule10:
+  class: File
+  path: python/congenital-neonatal-jaundice-excl-haemolytic-dz-of-the-newborn---primary.py
+inputModule11:
+  class: File
+  path: python/neonatal-jaundice-excl-haemolytic-dz-of-the-newborn-bilirubin---primary.py
+inputModule12:
+  class: File
+  path: python/neonatal-jaundice-excl-haemolytic-dz-of-the-newborn-damage---primary.py
+inputModule13:
+  class: File
+  path: python/neonatal-jaundice-excl-haemolytic-dz-of-the-newborn-hepatitis---primary.py
+inputModule14:
+  class: File
+  path: python/fetal-neonatal-jaundice-excl-haemolytic-dz-of-the-newborn---primary.py
+inputModule15:
+  class: File
+  path: python/neonatal-jaundice-excl-haemolytic-dz-of-the-newborn-kernicterus---primary.py
+inputModule16:
+  class: File
+  path: python/neonatal-jaundice-excl-haemolytic-dz-of-the-newborn---secondary.py
+inputModule17:
+  class: File
+  path: python/output-cases.py
